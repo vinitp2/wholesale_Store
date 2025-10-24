@@ -3,6 +3,7 @@
 ## Project Overview
 This project is a **wholesale store website** designed for convenience stores and small businesses. The platform allows users to browse products, request bulk orders, and streamline purchasing. The website is built to be **responsive, user-friendly, and scalable**, ensuring a smooth shopping experience on both desktop and mobile devices.
 
+<a href="https://68fbf055f29f22d069da0edd--wholesalewebsite.netlify.app/">Click here to visit</a>
 ## Features
 - Browse and search products by category  
 - Product details with images, descriptions, and pricing  
